@@ -1,0 +1,119 @@
+body{
+margin: 0;
+background-image: url(images/new.jpg);
+}
+
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar-item-1{
+  padding-left:25%;
+}
+
+.navbar-item-2 {
+  padding: 0 18px;
+}
+
+.top-Heading{
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+
+ .dive-heading{
+   color: #fff;
+ }
+
+ .Explore-heading{
+   color: #fff;
+
+ }
+
+.text{
+  position: absolute;
+  padding-right: 55%;
+  text-align: left;
+  margin-top: 200px;
+  margin-left:215px;
+  color: #fff;
+}
+.hr{
+  background-color: #fff;
+}
+
+.second-heading{
+margin-left: 500px;
+}
+
+.secondline{
+  margin-bottom: 100px;
+  color: #fff;
+
+}
+
+
+.underwater-path{
+  text-align:center;
+  margin-top: 500px;
+  position: absolute;
+  color: #fff;
+}
+
+.texttwopath{
+  position: absolute;
+  margin-top: 600px;
+}
+
+.text-2{
+color: #fff;
+padding-left: 18%;
+padding-right: 20%;
+}
+
+.img{
+border-radius: 8px;
+position: absolute;
+margin-top:800px;
+}
+
+.im{
+    width: auto;
+    padding-left: 8rem;
+    height: 300px;
+
+}
+.line{
+  position: absolute;
+  width:1rem;
+  margin-top: 100px;
+  margin-left: 600px;
+  border: dotted blue 10px;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+
+}
+.lineto{
+  position: absolute;
+  width:2rem;
+  margin-top: 100px;
+  margin-left: 625px;
+  border: dotted #fff 10px;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+}
+
+
+.footer{
+  position: absolute;
+  margin-top:1400px;
+}
